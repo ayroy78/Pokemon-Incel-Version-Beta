@@ -1,0 +1,20 @@
+BUGS!!!
+
+########################################################################################################
+KNOWN BUGS
+
+1. The gender of a wild pokemon is wrongly related to its cumulative probability
+
+2. Hitting Z or any other button repeatedly when the game does no expect input will cause glitchy behaviour.
+
+3. Saving right after exiting a gym or building will break the game on reload. Avoid this by going to another nearby route and then saving.
+
+4. Saving after exiting the old castle will push you to Restio City on reload.
+
+############################################################################################################
+
+FIXED BUGS
+
+1. Solar beam was removed from Charizard's moveset.
+
+2. Hyper voice was corrected in Ralts' moveset.
