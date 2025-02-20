@@ -5,7 +5,7 @@ READ ME FOR POKEMON INCEL VERSION
 
 THE QUICKEST WAY TO GET IT RUNNING:
 
-1. Google drive link: https://drive.google.com/drive/folders/1PWSdbT7V2uxZMiv8_MMGwji8pBa-5EFw?usp=drive_link
+1. Google drive link: https://drive.google.com/drive/folders/1J1lUbWj_rxddm1-OErhwbjb1HXdFxQRC?usp=sharing
 
 2. Run main.py
 
